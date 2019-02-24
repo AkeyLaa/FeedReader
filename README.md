@@ -1,5 +1,8 @@
-# FeedReader
+# FeedReader - App for ios
+App show's news from [News api](https://newsapi.org).
+Articles has taken from [RT](https://russian.rt.com).
 
+## Screenshots:-
 <p align="left">
   <img src="https://github.com/AkeyLaa/FeedReader/blob/master/Row/IMG_1518.PNG" width="200" title="hover text">
   <img src="https://github.com/AkeyLaa/FeedReader/blob/master/Row/IMG_1519.PNG" width="200" title="hover text">

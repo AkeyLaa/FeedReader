@@ -1,4 +1,4 @@
-# FeedReader - App for ios
+# FeedReader - App for iOS
 App show's news from [News api](https://newsapi.org).
 Articles has taken from [RT](https://russian.rt.com).
 
